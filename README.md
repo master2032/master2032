@@ -1,4 +1,7 @@
-## Hi there 👋
+## Extract 👋
+WELCOME.. My name is Leonardo Córdova Ramírez. I have been a Software Engineer for over 12 years. Below I will
+share my experience and passion for programming, as well as
+some of the interesting projects I have worked on.
 
 <!--
 **master2032/master2032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
