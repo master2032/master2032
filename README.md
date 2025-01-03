@@ -1,8 +1,14 @@
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+
+<br>
+
 ## Extract 👋
 WELCOME.. My name is Leonardo Córdova Ramírez. I have been a Software Engineer for over 12 years. Below I will
 share my experience and passion for programming, as well as
 some of the interesting projects I have worked on.
 
+## Experience
 <!--
 **master2032/master2032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
