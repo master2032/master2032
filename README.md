@@ -25,6 +25,10 @@
 
 <br><br>
 
+<p>WELCOME.. My name is Leonardo Córdova Ramírez. I have been a
+Software Engineer for over 12 years. Below I will
+share my experience and passion for programming, as well as
+some of the interesting projects I have worked on.</p>
 <br>
 
 
