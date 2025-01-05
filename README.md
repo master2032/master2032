@@ -1,8 +1,8 @@
 <h1>Leonardo Cordova</h1>
 
 
-<h2>Acerca de mi</h2>
-<p><b>BIENVENIDO..</b> Mi nombre es Leonardo Córdova Ramírez. Soy Ingeniero de Software desde hace mas de 12 años. A continuación compartiré mi experiencia y pasión por la programación, así como algunos de los proyectos interesantes en los que he trabajado.</p>
+<h2>About me</h2>
+<p><b>Welcome..</b> My name is Leonardo Córdova Ramírez. I have been a Software Engineer for over 12 years. Below I will share my experience and passion for programming, as well as some of the interesting projects I have worked on.</p>
 
         <div class="row">
           <div class="col-lg-4" data-aos="fade-right">
