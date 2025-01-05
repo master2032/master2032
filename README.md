@@ -1,6 +1,4 @@
-
-    <div class="hero-container" data-aos="fade-in">
-      <h1>Leonardo Cordova</h1>
+<h1>Leonardo Cordova</h1>
       <p><span class="typed" data-typed-items="Ingeniero de Software, Developer"></span></p>
     </div>
  
