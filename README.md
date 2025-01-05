@@ -1,18 +1,8 @@
 <h1>Leonardo Cordova</h1>
-      <p><span class="typed" data-typed-items="Ingeniero de Software, Developer"></span></p>
-    </div>
- 
 
-  <main id="main">
 
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Acerca de mi</h2>
-          <p><b>BIENVENIDO..</b> Mi nombre es Leonardo Córdova Ramírez. Soy Ingeniero de Software desde hace mas de 12 años. A continuación compartiré mi experiencia y pasión por la programación, así como algunos de los proyectos interesantes en los que he trabajado.</p>
-        </div>
+<h2>Acerca de mi</h2>
+<p><b>BIENVENIDO..</b> Mi nombre es Leonardo Córdova Ramírez. Soy Ingeniero de Software desde hace mas de 12 años. A continuación compartiré mi experiencia y pasión por la programación, así como algunos de los proyectos interesantes en los que he trabajado.</p>
 
         <div class="row">
           <div class="col-lg-4" data-aos="fade-right">
