@@ -4,12 +4,12 @@
 <h2>About me</h2>
 <p><b>Welcome..</b> My name is Leonardo Córdova Ramírez. I have been a Software Engineer for over 12 years. Below I will share my experience and passion for programming, as well as some of the interesting projects I have worked on.</p>
 
-<h3>Ingeniero de Software &amp; Developer.</h3>
+<h3>Software Engineer & Developer.</h3>
 
 <ul>
 <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.mastersdevelopers.dev</span></li>
 <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+52 9331291593</span></li>
-<li><i class="bi bi-chevron-right"></i> <strong>Ciudad:</strong> <span>Paraíso, Tabasco, México</span></li>
+<li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Paraíso, Tabasco, México</span></li>
 </ul>
              
               <div class="col-lg-6">
