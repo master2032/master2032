@@ -12,23 +12,13 @@
 <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Paraíso, Tabasco, México</span></li>
 </ul>
              
-<div class="col-lg-6">
-                <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Grado:</strong> <span>Ingeniero</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>acrom2032@gmail.com</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Remoto:</strong> <span>Disponible*</span></li>
-                </ul>
-              </div>
-            </div>
-            <p>
-              
-            </p>
-          </div>
-        </div>
+<ul>
+<li><i class="bi bi-chevron-right"></i> <strong>
+Degree:</strong> <span>Engineer</span></li>
+<li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>acrom2032@gmail.com</span></li>
+<li><i class="bi bi-chevron-right"></i> <strong>Remoto:</strong> <span>Disponible*</span></li>
+</ul>
 
-      </div>
-    </section><!-- End About Section -->
-    
 
     <!-- ======= Skills Section ======= -->
     <section id="skills" class="skills section-bg">
