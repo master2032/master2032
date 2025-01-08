@@ -21,9 +21,11 @@ Remote:</strong> <span>Available*</span></li>
 </ul>
 
 <h2>Skills</h2>
+<u>
+  <i>HTML: 95%</i>
+  <i>CSS: 95%</i>
+</u>
 
-HTML: 95%
-CSS: 95%
 
             <div class="progress">
               <span class="skill">JavaScript <i class="val">90%</i></span>
