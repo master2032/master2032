@@ -22,8 +22,8 @@ Remote:</strong> <span>Available*</span></li>
 
 <h2>Skills</h2>
 <u>
-  <i>HTML: 95%</i>
-  <i>CSS: 95%</i>
+  <li>HTML: 95%</li>
+  <li>CSS: 95%</li>
 </u>
 
 
