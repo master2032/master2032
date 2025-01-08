@@ -16,24 +16,14 @@
 <li><i class="bi bi-chevron-right"></i> <strong>
 Degree:</strong> <span>Engineer</span></li>
 <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>acrom2032@gmail.com</span></li>
-<li><i class="bi bi-chevron-right"></i> <strong>Remoto:</strong> <span>Disponible*</span></li>
+<li><i class="bi bi-chevron-right"></i> <strong>
+Remote:</strong> <span>Available*</span></li>
 </ul>
 
 
-    <!-- ======= Skills Section ======= -->
-    <section id="skills" class="skills section-bg">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Skills</h2>
-          <p>Estamos atentos a los cambios que surgen en nuevas tecnologías, probando y sacando lo mejor de las mismas para ser mas productivos.</p>
-        </div>
-
-        <div class="row skills-content">
-
-          <div class="col-lg-6" data-aos="fade-up">
-
-            <div class="progress">
+<div class="row skills-content">
+<div class="col-lg-6" data-aos="fade-up">
+<div class="progress">
               <span class="skill">HTML <i class="val">95%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
