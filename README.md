@@ -70,11 +70,22 @@ Remote:</strong> <span>Available*</span></li>
     
 <br>
 
+- **Nuve**:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,firebase,google" />
+  </a>
+  </p>
+    
+
+<br>
+
 - **Softwares and Tools**:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,git,bash,powershell" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,redhat,git" />
   </a>
   </p>
     
@@ -83,11 +94,12 @@ Remote:</strong> <span>Available*</span></li>
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,powershell,arduino" />
+  </a>
+  </p>
 
-
-</p>
 
 <br>
 <br>
