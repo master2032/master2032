@@ -33,7 +33,7 @@ Remote:</strong> <span>Available*</span></li>
 
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,dotnet" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,php,py,ts,rust,go" />
   </a>
   </p>
 
