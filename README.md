@@ -70,7 +70,7 @@ Remote:</strong> <span>Available*</span></li>
     
 <br>
 
-- **Nuve**:
+- **Cloud**:
 
 <p align="center">
   <a href="https://skillicons.dev">
