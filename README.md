@@ -33,7 +33,7 @@ Remote:</strong> <span>Available*</span></li>
 
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,php,py,ts,rust,go" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,php,py,ts,rust,go,bash" />
   </a>
   </p>
 
@@ -55,6 +55,16 @@ Remote:</strong> <span>Available*</span></li>
     <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,androidstudio,angular,astro,django,express,laravel,nodejs,wordpress" />
+  </a>
+  </p>
+    
+<br>
+
+- **Database**:
+
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlserver,mysql,sqlite,mongodb,cassandra,dynamodb,redis,graphql" />
   </a>
   </p>
     
