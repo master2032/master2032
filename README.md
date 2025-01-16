@@ -74,7 +74,7 @@ Remote:</strong> <span>Available*</span></li>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,firebase,google" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,firebase,google,fastapi" />
   </a>
   </p>
     
@@ -85,7 +85,7 @@ Remote:</strong> <span>Available*</span></li>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,redhat,git" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,redhat,git,docker" />
   </a>
   </p>
     
