@@ -54,7 +54,17 @@ Remote:</strong> <span>Available*</span></li>
 
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,androidstudio,angular,astro,django,express,laravel,nodejs,wordpress" />
+    <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,androidstudio,angular,astro,django,express,laravel,nodejs,wordpress,nextjs" />
+  </a>
+  </p>
+    
+<br>
+
+- **Libraries**:
+
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,react,materialui" />
   </a>
   </p>
     
@@ -85,7 +95,7 @@ Remote:</strong> <span>Available*</span></li>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,redhat,git,docker" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,redhat,git,docker,sublime,vscode" />
   </a>
   </p>
     
