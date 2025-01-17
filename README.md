@@ -33,7 +33,7 @@ Remote:</strong> <span>Available*</span></li>
 
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,php,py,ts,rust,go,bash" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,php,py,ts,rust,go,bash,java,perl" />
   </a>
   </p>
 
@@ -43,7 +43,7 @@ Remote:</strong> <span>Available*</span></li>
 
    <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,htmx,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,htmx,css,js,kotlin" />
   </a>
   </p>
 
@@ -74,7 +74,7 @@ Remote:</strong> <span>Available*</span></li>
 
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlserver,mysql,sqlite,mongodb,cassandra,dynamodb,redis,graphql" />
+    <img src="https://skillicons.dev/icons?i=sqlserver,mysql,sqlite,mongodb,cassandra,dynamodb,redis,graphql,postgres" />
   </a>
   </p>
     
@@ -95,7 +95,7 @@ Remote:</strong> <span>Available*</span></li>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,redhat,git,docker,sublime,vscode" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,redhat,debian,git,docker,openshift,sublime,vscode" />
   </a>
   </p>
     
@@ -106,7 +106,7 @@ Remote:</strong> <span>Available*</span></li>
 
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,powershell,arduino" />
+    <img src="https://skillicons.dev/icons?i=bash,powershell,arduino,matlab,npm" />
   </a>
   </p>
 
