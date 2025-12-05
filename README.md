@@ -8,7 +8,7 @@
 
 <ul>
 <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.mastersdevelopers.dev</span></li>
-<li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+52 9331291593</span></li>
+<li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+52 9331127356</span></li>
 <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Paraíso, Tabasco, México</span></li>
 </ul>
              
